@@ -1,6 +1,6 @@
 Author: Odell Dotson  -  odelldotson@gmail.com
 
-#######################################################################################################################
+###################################################
 
 
 To run tests:
@@ -12,7 +12,7 @@ To compile code and build tests from scratch:
 	make test; ./test
 
 
-#######################################################################################################################
+###################################################
 
 
 Inline documentation provides a pretty good explination of the code, but here's a quick rundown of the files:
@@ -32,7 +32,4 @@ makefile                        - A makefile for building library and tests
 README.md                       - You are here!
 
 
-#######################################################################################################################
-
-Thanks!
-- Odell
+###################################################
